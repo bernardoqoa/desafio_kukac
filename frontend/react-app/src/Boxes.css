@@ -1,0 +1,21 @@
+.Container{
+    max-width: 660px;
+    margin: 30px auto;
+    overflow: auto;
+    min-height: 300px;
+    border: 2px solid white;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: grey;
+}
+
+Button {
+    border-radius: 5px;
+    padding: 8px 8px;
+    border: none;
+    margin-left: 445px;
+    margin-top: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+}
