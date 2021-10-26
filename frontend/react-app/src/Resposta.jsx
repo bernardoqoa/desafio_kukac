@@ -26,7 +26,7 @@ function Resposta(props) {
                     <div className="info">
                         <p>{`CEP: ${location.state.cep}`}</p>
                         <p>{`Logradouro: ${location.state.logradouro}`}</p>
-                        <p>{`Bairro: ${location.state.localidade}`}</p>
+                        <p>{`Bairro: ${location.state.bairro}`}</p>
                         <p>{`Localidade: ${location.state.localidade}`}</p>
                         <p>{`UF: ${location.state.uf}`}</p>
                         <p>{`DDD: ${location.state.ddd}`}</p>
